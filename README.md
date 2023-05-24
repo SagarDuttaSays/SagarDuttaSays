@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Health Sciences and AI in healthcare**
+- 💬 Ask me about **Health Sciences and AI in Healthare**
 
 - 📫 How to reach me **sagar.dutta2020@vitbhopal.ac.in**
 <br/>
