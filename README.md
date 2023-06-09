@@ -15,7 +15,7 @@
 <a href="https://instagram.com/theeliopsalms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theeliopsalms" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/duttasagar086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duttasagar086" height="30" width="40" /></a>
 </p>
-<img src="/images/tools.jpg" alt="header image">
+<img src="/images/tool.jpg" alt="header image">
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
