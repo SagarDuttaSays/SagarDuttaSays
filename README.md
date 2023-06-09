@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/duttasagar086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duttasagar086" height="30" width="40" /></a>
 </p>
 <h1 align="center">Tools and Technology</h1>
-<img src="/images/tool.jpg" alt="header image">
+<img src="/images/tool.jpg" alt="tools image">
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -83,3 +83,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarduttasays&show_icons=true&locale=en" alt="sagarduttasays" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarduttasays&" alt="sagarduttasays" /></p>
+<img src="/images/thanks.jpg" alt="thank you image">
