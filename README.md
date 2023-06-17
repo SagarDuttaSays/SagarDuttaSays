@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=SagarDuttaSays&color=lightgrey)
 <h1 align="center">Hi 👋, I'm Sagar Dutta</h1>
 <img src="/images/cover.png" alt="header image">
-<h4 align="center">As a final year student pursuing Computer Science and Engineering with a specialization in Health Informatics, I am passionate about integrating the healthcare sector with digital information. With a current CGPA of 9.09, I have developed a strong foundation in programming, web development, and database management. My goal is to become a skilled full stack developer, combining my technical expertise with my interest in healthcare. I am committed to creating innovative solutions that improve patient care, enhance data analysis, and streamline healthcare processes. With a holistic understanding of both technology and healthcare, I strive to make a positive impact in the digital transformation of the healthcare industry.</h4><br/>
+<h4 align="center">As a final year student pursuing Computer Science and Engineering with a specialization in Health Informatics, I am passionate about integrating the healthcare sector with digital information. With a current CGPA of 9.10, I have developed a strong foundation in programming, web development, and database management. My goal is to become a skilled full stack developer, combining my technical expertise with my interest in healthcare. I am committed to creating innovative solutions that improve patient care, enhance data analysis, and streamline healthcare processes. With a holistic understanding of both technology and healthcare, I strive to make a positive impact in the digital transformation of the healthcare industry.</h4><br/>
 
 📖 I’m currently learning **Golang**
 
